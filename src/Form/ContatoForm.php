@@ -32,7 +32,7 @@
 					'message' => 'Email invalido, digite um valido'
 				]
 			]);	
-			return $validator;
+			return $validator; //a
 		}
 		/* Realiza o envio do email*/
 
